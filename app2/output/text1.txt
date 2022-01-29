@@ -1,0 +1,998 @@
+<style type="text/css"><b>p { margin-bottom: 0.1in; line-height: 115%; background: transparent }</b></style><!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>DE-CH</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="376">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Link"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Normale Tabelle";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]--><b><i><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">Update 26.01.2022 (ev.
+Stabilisierung im Trend zur Vorwoche - update erfolgt ca. 1-2x pro Woche). <span style="color:blue">In KW4/22 könnte sich der value infectous auf zu hohem
+Niveau erneut stabilisiern und damit die Welle verlangsamen.</span><span style="color:red"> KW3/22 ist der value infectous wieder deutlich angestiegen
+und die Lage hat sich wieder verschärft - die Welle flammt erneut bzw. nochmals
+auf.</span></span></i></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:DE-CH"></span>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><i><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:blue;mso-fareast-language:DE-CH">KW 2/22 hatte sich -
+wie prognostiziert - der value infectous weiter abgeschwächt (Basis &amp;
+Basisplus) und damit wurde die Viralität wieder gebremst (Basisplus hätte den
+Höhepunkt bis spätestens Ende Februar mit max. 50'000 Fällen/d erreichen können
+- 50%) oder sogar im besseren Fall die Trendwende früher stattfinden (Basis
+hätte bei ca. 30'000 Fällen/d stoppen können 50%)</span></i></b><b><i><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:red;mso-fareast-language:DE-CH">. </span></i></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH"></span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><i><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:red;mso-fareast-language:DE-CH">Das Verhalten wird aber
+wieder entscheidend und dies massiv beeinflusst durch die Forderungen der
+Politik und Verbände. Das Stoppen der Poolingtests an Schulen wird keinen
+positiven Effekt haben. Damit werden die kritischeren Szenarien wieder
+wahrscheinlicher. </span></i></b><span style="font-size:12.0pt;font-family:
+&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+DE-CH"></span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">KW1/22 hat sich der value
+infectous wieder stabilisiert - aber auf noch klar überkritischem Niveau,
+soadass die Viralität weiter stark angestiegen ist - Omiron hat damit wohl
+seinen Höhepunkt im aktuellen Setting erreicht oder überschritten. </span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">In KW52 explodiert Omicron und
+zwar noch schneller als auch ich gedacht habe - wohl neben dem Verhalten, der
+fehlenden Berücksichtigung der Aerosolübertargung damit eben auch die markant
+höhere Transmissibiltät. Value infectous massiv überkritisch und Viralität
+entglitt auf kritische Werte. In KW52 übertraf Explosion sogar das
+pessimistische Szenario. Es war schon fast unverantwortlich, wie die Schweiz
+fast etwas russisch Roulette spielen...<br>
+Schliessungen im Januar könnten immer noch nicht ausgeschlossen werden, sind
+aber politisch kaum mehr möglich&nbsp; - ausser die mögliche Abbremsung in KW1,
+KW2 und KW 3 würde sich bestätigen. Der Bundesrat wartet ab. Der Poker läuft
+noch weiter...</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">Leider könnten allfällige
+Schliessungen mangels CO2-Richtwerten und entsprechenden Daten nicht gezielt erfolgen,
+sondern müssten wieder flächendeckend erfolgen - mit den entsprechenden
+massiven Folgekosten für den Steuerzahler. Das Thema Aerosole / CO2-Richtwerte
+wurde nun seit Sommer 2020 leider schon fast vorsätzlich verschlafen!</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">KW51: der Impact von Omicron
+hatte wie erwartet angebahnt und hat in KW 51 die gebrochene Deltawelle
+übersteuert - value infectous stieg wieder klar an, Viralität auch, aber die
+mutmasslich noch nicht erfolgte Explosion mit Omicron hat sich nun doch
+durchgesetzt... </span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">KW 50 hat sich die Lage zum
+letzten mal stabilisiert (value infectous bliebe stabil, Viralität ist nur
+minimal weiter gestiegen oder stabil geblieben (Basisplus) bzw. leicht gesunken
+(Basis). KW49 ergab nochmals eine weitere leichte Verbesserung. Die 5. Welle
+(Delta) scheint unter 10'000 Fällen pro Tag gebrochen&nbsp; worden und die
+Viralität sank leicht (Basis) bzw. Viralität stablisiert sich auch im
+Basisplus-Szenario langsam und sollte unter 15'000 Fällen bleiben - alle
+Angaben neu mit weiterer prov. Einschätzung zu Omicron, dessen Impact mit
+mutmasslich über 70%-Anteil zum Jahreswechsel langsam immer besser
+prognostizierbar wird. </span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">In KW 48 hat sich eine weitere
+kleine Reduktion des noch überkritischen value infectous fortgesetzt - die
+Viralität stiege weiter an - aber minimal (Basis) und nur noch sehr leicht
+exponentiell (Basisplus) - an und die Lage bleibt bezüglich Spitaleintritten
+immer noch kritisch. Die Vorgaben des Bundesrates waren überfällig - leider
+blocken einige Kantone und der Bundesrat schwächt Massnahmen ab (v.a. die
+konsequenten Pooltestings in den Schulen, hier ist der Kanton Zürich seit
+Monaten unverantwortlich lasch und die Verantwortliche(n) sollte(n) sich
+Gedanken über ihre Zukunft machen), obwohl diese keinen Aufschub mehr dulden,
+um die Welle jetzt definitiv zu brechen oder mindestens flach zu halten ,.. Die
+Schweiz spielte etwas "russisches Roulette" mit 1-2&nbsp; von 6
+gefüllten Kammern... <span style="color:red">aber wir hätten bei konsequentem
+Handeln immer noch ohne weitere grosse Kollateralschäden
+"durchkommen" können - das ist immer noch sehr unsicher - aber
+denkbar! </span></span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">In KW 47 hat sich der value
+infectous - immer noch massiv überkritisch - ganz leicht abgeschwächt
+(unverändert zu Prognose vom 26.11.). Viralität steigt weiter deutlich an. Die
+negative Entwicklung in KW 46 ging wie erwartet weiter - Value infectous stieg
+sogar wieder an (weit überkritisch) und Viralität stieg auch weiter rapide an.
+&nbsp;<i> </i></span></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;margin-bottom:0cm;line-height:
+normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">Trotz dem
+zu wenig entschlossenem Umsetzen von Gegenmassnahmen des Bundes und der Kantone
+inklusive der zwar im Grundsatz endlich klarer definierten Schutzkonzeption
+"Lüften" kann die Situation mit Omicron aktuell möglicherweise immer
+noch in einem besser kontrollierbaren Zustand gebracht werden - drastischere
+Massnahmen sind aber immer noch nicht auszuschliessen. Die Schweiz bleibt
+weiter auf einer highrisk-Durchseuchungs-Strategie (und die sinnvolle
+low-Covid-Strategie wird seit Monaten ignoriert), was uns weiter grosse
+Unsicherheiten gibt.&nbsp; Die Kontrolle ist wegen der absolut viel zu hohen
+Viralität in der Bevölkerung knapp ausser Kontrolle (das Testen und das Contact
+Tracing sind weit über den Grenzen, was die Dunkelziffer erhöhen könnte und die
+Lage belastet). </span></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;margin-bottom:0cm;line-height:
+normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">Klar zu
+spät wurde mit den Boosterfreigabe trotz klaren wissenschaftlichen Hinweisen
+reagiert - zumindest jetzt läuft das Boostern immer besser und wirkt auch gegen
+schwere Verläufe - und das Thema Aerosole erfordert Richtwerte CO2 - ein erster
+Schritt dazu wurde endlich gemacht - aber zu zögerlich und zu spät. </span></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;margin-bottom:0cm;line-height:
+normal"><b><i><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:blue;mso-fareast-language:DE-CH">Die
+grosse Unbekannte Omicron wird nun immer besser einschätzbar. Omicron hat
+mutmasslich zwar eine klar höhere Transmission als Delta primär wegen
+vermehrter Impfdurchbrüche - das Boostern bremst den Effekt aber etwas ab. Eine
+vierte statistisch bessere Einschätzung ergibt eine Bandbreite von 30-50%
+höherer Transmissibilität, wobei der Anteil Impfdurchbrüche mindestens die
+Hälfte ausmachen dürfte. Sie ist damit etwas tiefer als die letzten beiden
+Einschätzungen mit 30-70% bzw.&nbsp; 50-70% und wieder näher an der ersten
+Schätzung vor Weihnachten von 30-40%. Dies ist beunruhigend. Hoffnung: Erste
+Daten aus anderen Ländern und auch in der Schweiz zeigen immer mehr, dass es
+eher weniger schwere Verläufe und Todesfälle geben könnte und die Impfung und
+v.a. auch das Boostern klar helfen. Damit erhärtet sich die Hoffnung, dass sich
+Omicron als eher "nette" Mutation entpuppt und dami die aktuell
+explodierende 5. Welle noch harmloser bleibt als von vielen befürchtet - ich
+erwarte dies heute als wahrscheinliche Möglichkeit ein. </span></i></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH"></span></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;margin-bottom:0cm;line-height:
+normal"><b><i><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:blue;mso-fareast-language:DE-CH">Dass
+Omicron - wie ich seit Beginn empirisch vermutete - nicht "DIE"
+gefährliche Escape-Mutante sein dürfte, scheint sich immer mehr zu bestätigen.
+Damit könnten uns ein "circuit breaker" erspart bleiben und wir&nbsp;
+können uns weiter auf Testen, Impfen, Boostern und Lüften (mit Richtwerten CO2)
+konzentrieren. </span></i></b><b><i><span style="font-size:12.0pt;font-family:
+&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:red;
+mso-fareast-language:DE-CH">Leider ist insbesondere beim Gamechanger
+Lüften/CO2-Richtwerten klar zu wenig passiert, um die Lage
+abzubremsen.&nbsp;&nbsp; </span></i></b><b><i><span style="font-size:12.0pt;
+font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-fareast-language:DE-CH">&nbsp; </span></i></b><span style="font-size:12.0pt;
+font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-fareast-language:DE-CH"></span></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;margin-bottom:0cm;line-height:
+normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">Mit einem
+breiten und raschen Boostern der Impfwilligen könnte bei Vulnaerablen die
+Anzahl schwerer Verläufe immer noch reduziert bleiben und bei den übrigen die
+passive Immunsierung gestärkt werden.<b><i><span style="color:blue"> Damit, mit
+CO2-Richtwerten (besser und schneller mit breiter CO2-Messoffensive) und
+weiter&nbsp; gezielten Massnahmen zur Kontaktreduktion könnte die
+Situation&nbsp; im Januar wieder unter Kontrolle gebracht werden.</span></i></b></span></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;margin-bottom:0cm;line-height:
+normal"><b><i><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:red;mso-fareast-language:DE-CH">Die
+Aerosolübertragung bleibt auch wegen der zu trockenden Innenluft weiter
+bestimmend - ceterum censeo: CO2 messen, Richtwerte einführen und regelmässig
+lüften... ohne mein ceterum censeo zu den Aerosolen ¨können wir die Pandemie
+nicht wirklich unter Kontrolle bringen - q.e.d.- h.x.! </span></i></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH"></span></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:normal"><b><i><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:blue;mso-fareast-language:DE-CH">Viel
+zu zögerlich nimmt der Bundesrat bezüglich Aerosolen das Covidgesetz - Art. 3
+Abs. 7c - ernster - zu lange wurden die Fakten ignoriert:</span></i></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH"></span></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:normal"><b><sup><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:blue;mso-fareast-language:DE-CH">7</span></sup></b><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:blue;mso-fareast-language:DE-CH">&nbsp;Der Bund trifft
+die folgenden Massnahmen in enger Abstimmung mit den Kantonen:</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH"></span></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:normal"><b><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:blue;mso-fareast-language:DE-CH">c.
+Massnahmen, Kriterien und Schwellenwerte orien­tieren sich an nationalen und
+internationalen Erfah­rungen der Wissenschaft, insbesondere auch bezüg­lich
+Verminderung der Virenübertragung durch Aerosole;</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH"></span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><i><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">Im September hat sich die Lage
+nochmals deutlich enspannt. Anders gesagt waren wieder klar tiefer um
+6'000-10'000 herum schwankend (im Tiefpunkt im Juni waren es 500 - 700)
+Personen pro Tag in der Schweiz ansteckend </span></i></b><i><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">- <b>Aber nochmals wichtig wäre
+gewesen: a) weiter nachbessern gemäss meinen seit Monaten gemachten
+Empfehlungen (erfolgt teilweise) und b) ein gezieltes Dispositiv insbesondere
+bezüglich Aerosolübertragung (CO2-Messungen, Richtwerte CO2 zur Luftqualität
+und Lüften) aufbauen und implementieren (fehlt immer noch)! <span style="color:red">Aktuell hat sich die Lage wieder etwas entschärft - bleibt
+aber nahe am Entgleiten. Es sind immer noch ca. 250'000 - 350'000 (Vorwoche
+250'000- 350'000)&nbsp; Personen pro Tag in der Schweiz ansteckend und damit
+nur wenig mehr als in der Vorwoche.</span></b></span></i><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH"></span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">Der Weg, ob das basis- oder das
+basisplus-Szenario eintrifft, bleibt weiter offen. Die beiden Szenarien sind
+noch nicht am Eskalieren. Der Trend ist immer noch offen - der bisherige Trend
+basierte immer noch darauf, dass die beschlossenen Massnahmen bleiben und v.a.
+die Aerosolübertragung endlich ernster genommen wird, was leider immer noch
+völlig ungenügend erfolgt ist. Das Brechen der 5. Welle ist immer noch auch
+ohne harte Massnahmen denkbar...</span></b><span style="font-size:12.0pt;
+font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-fareast-language:DE-CH"> Das pess. Szenario wird noch klar unterschritten
+(bleibt unter 25%), während das optimistischere Szenario (klar unter 5%) weiter
+ausser Reichweite bleibt. </span></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;margin-bottom:0cm;line-height:
+normal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">Die
+Wahrscheinlichkeit für ein etwas schlechteres Basisszenario stagniert bei 45%.</span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH"> <b>Die Viralität stiegt vom
+Tiefstwert 0.005% wieder rasch auf 0.25 % und erreichte nochmals klar tiefe
+Werte um 0.06% - diese überstiegt den von mir definierten "sicheren"
+Wert nur noch minimal - und war ein gute Ausgangslage für die kältere Periode. <span style="color:red">Aktuell könnte der Wert auf gegen 3.0 % bleiben (Vorwoche 3.0
+%), und ist weiter klar überkritisch.&nbsp;</span> </b>Dies gemäss Definition
+aus meinem Modell mit DZ deutlich unter 1.8 (aktuell DZ calc. 1.9).<b> <span style="color:blue">Bei weiter richtigem Handeln - Massnahmendispositiv
+beibehalten (zwar leider bezüglich Aerosole immer noch zu wenig) könnte ein Wendepunkt
+trotzdem kommen. So könnte die Situation mutmasslich ohne härtere Massnahmen
+unter Kontrolle gebracht werden. Und es wird zunehmend eine Pandemie der
+Ungeimpften...</span></b> </span></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;margin-bottom:0cm;line-height:
+normal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">Die
+Wahrscheinlichkeit des Basisplus Szenarios stagniert bei 55 %. </span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">Die Viralität stablisierte sich
+bis in den Oktober wieder nach Anstieg vom Sockel 0.010 % auf 0.35% bei 0.30% -
+auf unter 0.08%.<b> Aktuell steigt diese leicht auf 4.3 % (Vorwoche 4.0 %) -
+und damit klar über der 2. Welle im Oktober 2020. </b>Die Dunkelziffer wird
+dabei etwas reduziert auf nun bei gegen 1.95 (aktuell erhöht auf 2.10)
+angenommen, was relativ hoch für eine sichere Kontrolle des Virus ist.&nbsp;<b><span style="color:red"> - die aktuelle mutmasslich immer noch eher schwächere 5.
+Welle als 2020 (bezüglich Todesfällen klar und auch bezüglich Spitalbettenbelastung
+bleibt es zwar eng, scheint aber unter Kontrolle) und bleibt weiter in der
+heissen Phase. Aber die 5. Welle könnte bis Mitte/Ende Februar den Höhepunkt
+überschreiten.</span></b> </span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">&nbsp;</span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">Dies immer noch ohne
+Berücksichtigung, dass die GB-Mutation 50%-70% schneller sein soll – was ich
+aufgrund meiner Datenanalyse für GB und CH immer bestritten habe - ich gehe
+eher von 5 % bis max. 20 % (eher sogar max. 10%) aus. </span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><i><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:red;mso-fareast-language:DE-CH">Die Analyse in meinem
+Modell zeigt, dass die Delta-Variante (oder die Indische) zwar eine höhere
+Ansteckungsrate haben dürfte (Bandbreite 15% -&nbsp; 45%, wahrscheinlich aber
+max. plus 20-30%) gegenüber der Variante Sommer 2020.</span></i><i><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH"> Dies ist aber mit etwas
+Unsicherheiten behaftet, da es dazu gewisse Annahmen braucht und die
+Volatilität recht hoch ist. Der Hauttreiber (mind. 45 - 75 %) dürfte aber nicht
+die Mutante, sondern dürften der eher schlechte Sommer, das Verhalten der
+Menschen und der eher lockere Umgang der Behörden mit der Situation und v.a die
+immer noch weitgehende Ignoranz gegenüber der Aerosolübertragung (und
+CO2-Richtwerten) sein... dies lässt sich in meinem Model statistisch immer
+besser erhärten... <span style="color:red">sollte Delta aber doch um bis zu
+200% ansteckender sein (wie offenbar viele behaupten und ich statistisch heute
+faktisch ausschliesse), wäre die Lage empfindlich schlechter geworden und
+hätten wir die Deltawelle kaum ohne massive Einschränungen brechen können.</span>
+</span></i><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:DE-CH"></span></p>
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">Zu Omicron sind obige Aussage
+immer besser belastbar. Es muss aber weiter das Vorsichtsprinzip angewandt
+werden, v.a. in der aktuell immer noch angespannten Lage... <span style="color:blue">aber wir dürfen immer mehr hoffen, dass wir mit Omicron in
+Richtung endemisch gehen könnten.</span></span></b><span style="font-size:12.0pt;
+font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-fareast-language:DE-CH"></span></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;margin-bottom:0cm;line-height:
+normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">Das
+optimistischeres Szenario ist erst mit Massnahmen zur Reduktion der DZ auf 1.68
+oder tiefer denkbar, was aktuell auszuschliessen . </span></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;margin-bottom:0cm;line-height:
+normal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:blue;mso-fareast-language:DE-CH">Fazit:
+Chancen auf "Durchkommen" ohne weitere Schliessungen bleibt intakt - </span></b><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:red;mso-fareast-language:DE-CH">die Risiken bleiben
+aber noch hoch und bei Omicron ist noch zu Vieles (v.a. bezüglich Long-Covid)
+offen. </span></b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:DE-CH"></span></p>
+
+<p class="MsoNormal" style="mso-margin-top-alt:auto;margin-bottom:0cm;line-height:
+normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:DE-CH">Die seit
+Wochen geforderte Strategie, um den Winter zu überstehen (wurde nicht ernst
+genug genommen): 1. Ein Durchimpfung von mind. 80% der Bevölkerung ab 16 Jahren
+zu erreichen (muss jetzt einfach kommen), alle zuerst ab 65 und dann alle nach
+ca. 4-6 Monaten&nbsp; mit 3. Dosis boosten (hier ist noch viel zu tun) und
+Impfung für Kinder ab 5 ab spätestens Dezember zuzulassen (erfolgt), 2.
+Poolingtests in allen Schulen und auch in weiteren Bereichen mindestens bis
+auch Kinder zu 50% geimpft sind (Testen ist grundsätzlich bereit, die Kantone
+müssen nun konsequent umsetzen), 3. CO2-Richtwerte bis 800 ppm (grün) und ab
+1200 ppm (rot) und der Feuchte, um die Risiken der Aerosolübertragung in
+Innenräumen zu reduzieren/minimieren - auch bei Geimpften sind sonst immer noch
+Ansteckungen zu erwarten (da gibt es erste noch zu zaghafte Schritte), 4. das
+Covid-Zertifikat als Zugangsbestimmung für Veranstaltungen und z.B. diejenigen
+Innenräume, die die obigen Richtwerte nicht einhalten können (hier handelt der
+BR tw.) und 5. Doppeltest bei Einreisen und Rückreisen konsequent umsetzen (war
+in Kraft und wurde unverständlicherweise per 20.12 ausser Kraft gesetzt). Zudem
+muss das Testen und das Contact Tracing konsequent beibehalten werden (ist bei
+den hohen Zahlen gefährdet). Damit könnten wir neue und vermeidbare Ausbrüche
+vielleicht nochmals stoppen, damit unnötige härtere Massnahmen vermeiden und <span style="color:green">könnten ab ca. März 2022 (<b>ohne neue Escape-Mutanten</b>)
+mit wenigen Restmassnahmen (Lüften...) und Dispo Winter 22/23 weitgehend zur
+Normalität übergehen.</span></span></p>
+
