@@ -1,0 +1,13 @@
+<div><b>"Free viral":</b> Anzahl Personen (absoluter Wert), die in der 
+Schweiz am jeweiligen Tag mutmasslich ansteckend waren (Vergangenheit), 
+sind (aktueller Tag) oder ansteckend sein werden (Prognose) und somit 
+das Virus weitergeben können (jeweils in aktuell 4 Haupt-Szenarien). <br></div><div><br></div><div><b>"value infectous":</b> Dieser Wert beschreibt die Entwicklung der Pandemie 
+(wie die Wirkung der Massnahmen, der Oeffnungen und der Veränderung des 
+Wetters u.a.) und wird weitgehend tagesaktuell berechnet (er schwankt in
+ Abhängigkeit der Annahmen in den Szenarien). Entspricht nicht dem 
+R0-Wert, dürfte aber im «Verlauf» ähnlich sein! <br></div><div><br></div><div>Bemerkung: Der Wert ist in Abhängigkeit der Viralität (in %) zu sehen. 
+Ist die Viralität tief, kann der Wert höher sein, ohne dass die Pandemie
+ rasch ausser Kontrolle gerät. Ist die Viralität aber hoch, ist eine 
+kleine Veränderung schnell wirksam in beide Richtungen (entweder rascher
+ Anstieg oder Absinken der Viralität).
+</div>

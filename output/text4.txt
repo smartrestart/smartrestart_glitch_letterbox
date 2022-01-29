@@ -1,0 +1,10 @@
+<div><b>Dunkelziffer (DZ): </b>Die Dunkelziffer beschreibt, wie viele 
+Fälle unentdeckt bleiben (z.B. symptomlos, asymptomatisch oder sonst 
+nicht getestet werden). Diese Zahl muss mangels regelmässiger 
+Reihentests aus anderen Daten berechnet werden und für die Zukunft 
+geschätzt werden.</div><div>1. grün: unter 1.5 (Pandemie kontrollierbar),2. gelb: 1.5 bis 2.0 (Pandemie grundsätzlich kontrollierbar), 3. orange: 2.0 bis 2.5 (Pandemie erschwert kontrollierbar), 4. rot: über 2.5 (Pandemie schwierig kontrollierbar), 5. dunkelrot: über 3.0 (Pandemie kaum kontrollierbar)<br></div><div><br></div><div><b>Bsp.: </b>Eine DZ 2 heisst, dass pro "gefundenen" Fall ein weiterer Fall 
+unentdeckt blieb.
+Bem. Die DZ müsste klar unter 2 gedrückt werden, mindestens unter 1.8 - 
+besser unter 1.5. <br></div><div><br></div><div><b>Anzahl Geimpfte: </b>Die Anzahl Geimpfter wurde aufgrund der Aussagen des BAG für die Monate April, Mai und Juni hochgerechnet geschätzt, wird laufend nachgeführt und in die Modellierung integriert. Es wird neu von einer Zielgrösse von rund 4.65 Mio. (Basis, Basisplus und pess.) und ca. 5 Mio. (opt.) 2x Geimpfter bis Ende August ausgegangen.</div><div>Als weitere Parameter wird die Impfwirkung (Verbreitung durch Geimpfte) im Modell gewichtet "eingepreist". Dabei wird auf Angaben auf der Literatur abgestützt und eine Wirkung von 78% (Basis), 70% (Basisplus), 65% (pess.) und 88% (opt.) angenommen.</div><div><i>Bem.: Die reale Wirkung dieser zwei neuen Parameter sind noch wenig erforscht und können erst schrittweise mit realen Daten abgeglichen werden. Die bisherige Entwicklung inkl. Prognosen lässt aber den Schluss zu, dass die Annahmen bisher recht vernünftig waren. Sie bergen aber immer noch Risiken von Abweichungen.<br></i></div><div><font face="Times New Roman, serif"><font style="font-size: 12pt" size="3"><i>Bem: Die
+Modellierung wird seit KW12 mit Annahmen zur Wirkung der Impfung
+ergänzt.</i></font></font></div><div><br></div>
